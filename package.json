@@ -1,0 +1,18 @@
+{
+  "name": "discord-symbole",
+  "version": "1.0.0",
+  "description": "Ce module très simple d'utilisation vous permettra de transformez votre texte en symboles spéciaux tels que blocks, ascii-art, bold,... Tout cela en une seule ligne !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "on hamza",
+    "discord",
+    "ascii",
+    "discord-symbole",
+    "discord.js"
+  ],
+  "author": "on hamza",
+  "license": "MIT"
+}
