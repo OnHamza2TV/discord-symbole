@@ -10,7 +10,7 @@ npm i discord-symbole
 ## Utilisation
 Ce module **très simple d'utilisation** vous permettra de transformez votre texte en symboles spéciaux tels que blocks, ascii-art, bold,... Tout cela en une seule ligne !
 ```js
-const { block } = require("discord-art");
+const { block } = require("discord-symbole");
 const Discord = require('discord.js');
 
 const client = new Discord.Client();
